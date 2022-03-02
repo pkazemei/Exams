@@ -1,0 +1,19 @@
+@model Hobby
+
+<h2>@Model.Name</h2>
+<br>
+<div>
+    <h4>Hobby Creator: </h4>
+        <p>@Model.Creator.UserName</p><br>
+
+    <h4>Description: </h4>
+        <p>@Model.Description</p><br>
+
+    <h4>Enthusiasts: </h4>
+        @{
+            foreach(Association a in Model.AssociatedHob)
+            {
+                <li>@a.User.UserName</li>
+            }
+        }
+</div>

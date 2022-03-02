@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just Dessert</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header flexed2">
+        <h1 class="just">Just<span class="dessert">Dessert</span></h1>
+        <button onclick="clickRemove(this)" id="remove" class="join">Join</button>
+        <button class="login">Login</button>
+    </div>
+    <div class="headerMid flexed">
+        <input type="text" id="search" placeholder="SEARCH"><button class="go" onclick="getValue()">GO</button>
+        <div class="headerPics flexed center">
+            <div class="headerPic circle"><img src="./images/imgs/cake.png" alt="cake"><p>Cake</p></div>
+            <div class="headerPic circle"><img src="./images/imgs/cookie.png" alt="cookie"><p>Cookies</p></div>
+            <div class="headerPic circle"><img src="./images/imgs/ice-cream.png" alt="ice-cream"><p>Ice Cream</p></div>
+            <div class="headerPic circle"><img src="./images/imgs/pie.png" alt="pie"><p>Pie</div>
+        </div>
+    </div>
+    <div class="container flexed2">
+        <div class="leftCol">
+            <h1 class=" recipe center">Recipe of the Day</h1>
+            <div class="leftColPic center">
+                <img src="./images/imgs/orange-tart.jpg" alt="orange-tart">
+                <div class="like flexed2">
+                    <h3>Orange Tea Jelly Tart</h3>
+                    <p>By:<a href="">yuripiano</a></p>
+                    <button onclick="like3()"><img src="./images/imgs/heart.png" alt="like"></button>
+                    <p id="count68">68</p>
+                </div>
+            </div>
+            <p class=" fullRecipe center"><a href="">See Full recipe</a></p>
+        </div>
+        <div class="rightCol">
+            <h4>Recommended for you:</h4>
+            <p class="line"></p><br>
+            <div class="rightColPic center">
+                <div class="rImg1"><img src="./images/imgs/macarons.jpg" alt="macarons">
+                </div>
+                <div class="like flexed2">
+                    <h3>Macaroons</h3>
+                    <p>By:<a href="">EmilieW</a></p>
+                    <button onclick="like1()"><img src="./images/imgs/heart.png" alt="like"></button>
+                    <p id="count212">212</p>
+                </div>
+            </div>
+            <div class="rightColPic center">
+                <div class="rImg2"><img src="./images/imgs/creme-brulee.jpg" alt="creme-brulee">
+                </div>
+                <div class="like flexed2">
+                    <h3>Creme brulee</h3>
+                        <p>By:<a href="">MarisaG</a></p>
+                    <button onclick="like2()"><img src="./images/imgs/heart.png" alt="like"></button>
+                    <p id="count32">32</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;    /* ADD A SANS SERIF DEFAULT FONT HERE */
+}
+
+body {
+    background-color: wheat;    /* CHANGE THE BACKGROUND COLOR TO WHEAT */
+}
+
+p,
+img {
+    margin-bottom: 20px;
+}
+
+#container {
+    width: 900px;
+    margin: 0 auto;
+    height: 100vh;
+    background-color:white;     /* CHANGE THE BACKGROUND COLOR TO WHITE */
+    border-left:solid lightgrey 2px;
+    border-right: solid lightgrey 2px;
+}
+
+#header {
+    padding: 20px;
+    color: white;   /* CHANGE THE TEXT COLOR TO WHITE AND THE BACKGROUND COLOR SHOULD BE #79b5f1 */
+    background-color: #79b5f1;
+    font-weight: bold;
+}
+
+aside {
+    width: 200px;
+    padding: 20px;
+    display: inline-block; /* ASIDE AND MAIN MUST BE SIDE BY SIDE ADD THE CORRECT PROPERTIES TO THEIR RULE SETS */
+    vertical-align: top;
+    font-weight: bold;
+}
+
+main {
+    width: 640px;
+    padding: 20px;
+    display: inline-block;
+}
+
+#nav {
+    list-style-type: none;  /* REMOVE THE BULLET POINTS */
+}
+
+#nav a {
+    text-decoration: none;  /* REMOVE THE UNDERLINES */
+}

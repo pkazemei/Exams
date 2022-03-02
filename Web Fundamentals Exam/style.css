@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.flexed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexed2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.header{
+    background-color: black;
+    min-height: 80px;
+    width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.just{
+    color: white;
+}
+
+.dessert{
+    color: orange;
+}
+
+.login{
+    background-color: blue;
+    color: white;
+    font-size:medium;
+    padding: 5px;
+}
+
+.join{
+    background-color: orange;
+    font-size: medium;
+    padding: 5px;
+}
+
+.headerMid{
+    background-color: lightyellow;
+    min-height: 200px;
+    width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.headerPic img{
+width: 100px;
+margin: 0 25px;
+}
+
+.headerPic{
+    font-size: larger;
+}
+
+.circle{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.leftCol{
+    margin:10px;
+    min-height: 700px;
+    background-color: lightgray;
+    flex: 3;
+}
+
+.leftColPic img{
+    width: 600px;
+}
+
+.like img{
+    width: 40px;
+}
+
+.rightCol{
+    margin-top: -100px;
+    min-height: 600px;
+    border-bottom: grey 2px;
+    flex: 2;
+}
+
+.rImg1 img, .rImg2 img{
+    width: 300px;
+}
+.rImg2{
+    margin-top: 20px;
+}
+
+.line{
+    margin-top: 10px;
+    border: gray 1px solid;
+    width: 425px;
+}
+
+.like p{
+    text-align: left;
+}
+
+.recipe{
+    color: blue;
+    margin:5px 0;
+}
+
+.fullRecipe{
+    font-size: larger;
+    margin-top: 50px;
+}

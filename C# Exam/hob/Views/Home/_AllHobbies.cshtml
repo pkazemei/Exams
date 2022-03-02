@@ -1,0 +1,34 @@
+<div class="row">
+    <div class="table table-striped">
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Creator</th>
+                <th>Enthusiasts</th>
+                <th>Actions</th>
+            </tr>
+            @{
+                foreach(Hobby a in ViewBag.AllHobbies)
+                {
+            <tr>
+                    <td><a href="/hobby/@a.HobbyId">@a.Name</a></td>
+                    <td>@a.Creator.UserName</td>
+                    <td>@a.AssociatedHob.Count</td>
+                    @{
+                        if(@ViewBag.loggedIn.UserId == @a.CreatorId) //if loggedin user is the creator, delete
+                        {
+                            <td> <a href="hobby/delete/@a.HobbyId" class="btn btn-danger">Delete</a></td>;
+                        }
+                        
+                        if(@ViewBag.loggedIn.UserId != @a.CreatorId) //if loggedin user is not the creator, join or leave
+                        {
+                            <td><a href="hobby/join/@a.HobbyId/@ViewBag.loggedIn.UserId" class="btn btn-primary">Join</a></td>;
+                            <td><a href="/hobby/leave/@a.HobbyId/@ViewBag.loggedIn.UserId" class="btn btn-dark">Leave</a></td>;
+                        }
+                    }
+            </tr>
+                }
+            }
+        </table>
+    </div>
+</div>

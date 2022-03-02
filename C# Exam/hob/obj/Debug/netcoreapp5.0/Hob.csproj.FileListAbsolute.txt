@@ -1,0 +1,120 @@
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.exe
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.deps.json
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.runtimeconfig.json
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\ref\Hob.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.pdb
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.Views.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Hob.Views.pdb
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\BouncyCastle.Crypto.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Google.Protobuf.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\MySql.Data.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\MySqlConnector.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\Pomelo.JsonObject.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pkaze\Desktop\hob\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.RazorAssemblyInfo.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.RazorAssemblyInfo.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\staticwebassets\Hob.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\staticwebassets\Hob.StaticWebAssets.xml
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\scopedcss\bundle\Hob.styles.css
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.TagHelpers.input.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.TagHelpers.output.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.RazorCoreGenerate.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\CreateHob.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\OneHob.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\_AllHobbies.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.Views.pdb
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.csproj.CopyComplete
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.dll
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\ref\Hob.dll
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.pdb
+C:\Users\pkaze\Desktop\hob\obj\Debug\netcoreapp5.0\Hob.genruntimeconfig.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.exe
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.deps.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.runtimeconfig.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.runtimeconfig.dev.json
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\ref\Hob.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.Views.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Hob.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\BouncyCastle.Crypto.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Google.Protobuf.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\MySql.Data.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\MySqlConnector.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\Pomelo.JsonObject.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.csproj.AssemblyReference.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.AssemblyInfoInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.AssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.csproj.CoreCompileInputs.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.RazorAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.RazorAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\staticwebassets\Hob.StaticWebAssets.Manifest.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\staticwebassets\Hob.StaticWebAssets.xml
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\scopedcss\bundle\Hob.styles.css
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.TagHelpers.input.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.TagHelpers.output.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.RazorCoreGenerate.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\CreateHob.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\OneHob.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Home\_AllHobbies.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.RazorTargetAssemblyInfo.cache
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.RazorTargetAssemblyInfo.cs
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.Views.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.csproj.CopyComplete
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\ref\Hob.dll
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.pdb
+C:\Users\pkaze\Desktop\VS Projects\Coding Dojo\Exams\C# Exam\hob\obj\Debug\netcoreapp5.0\Hob.genruntimeconfig.cache
